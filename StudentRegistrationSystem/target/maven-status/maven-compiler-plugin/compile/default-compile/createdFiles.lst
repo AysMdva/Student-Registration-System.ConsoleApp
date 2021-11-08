@@ -1,0 +1,4 @@
+beans\Config.class
+beans\Student.class
+main\studentregistrationsystem\Main.class
+Util\InputUtil.class
